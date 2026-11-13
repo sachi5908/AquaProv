@@ -294,7 +294,7 @@ contributor attribution.
 
 A suggested software reference is:
 
-> Mahanta, S. N., & Phukan, B. *AquaProv* (Version 1.0) [Computer software]. https://github.com/sachi5908/AquaProv
+> Mahanta, S. N., Phukan, B. & Selvakumar, S. *AquaProv* (Version 1.0) [Computer software]. https://github.com/sachi5908/AquaProv
 
 Also cite the original scientific methods relevant to the analyses used.
 
@@ -304,3 +304,4 @@ Also cite the original scientific methods relevant to the analyses used.
 | --- | --- |
 | **Sachida Nanda Mahanta** | [sachida5908@gmail.com](mailto:sachida5908@gmail.com) |
 | **Bristi Phukan** | [bristi.87.hn.24@gmail.com](mailto:bristi.87.hn.24@gmail.com) |
+| **Dr. S. Selvakumar** | [geoselvas@gmail.com](mailto:geoselvas@gmail.com) |
