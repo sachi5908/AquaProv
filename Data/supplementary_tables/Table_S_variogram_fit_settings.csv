@@ -1,0 +1,2 @@
+estimator,distance_bins,maximum_distance_fraction,minimum_pairs_per_bin,loss,range_bounds_fraction_of_max_distance,partial_sill_bounds_fraction_of_sample_variance,nugget_bounds_fraction_of_sample_variance,block_method,buffer_distance
+Matheron; 0.5 * mean squared differences,10,0.8,3,least squares with residual weights sqrt(pair count / total pair count),"[0.01, 2]","[0.000001, 5]","[0, 5]","K-means of coordinates, 10 initializations",0

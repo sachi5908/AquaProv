@@ -1,0 +1,188 @@
+{
+  "aquaprov_version": "1.0",
+  "python": "3.10.11",
+  "platform": "Windows-10-10.0.26300-SP0",
+  "processor": "AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD",
+  "moreno": {
+    "source_file": "data\\data_Moreno_Merino _et_al_2021.csv",
+    "source_sha256": "d5784e7a637afdc527c52e1c052142adcf6bc04d187bda33d46e27e5a0456910",
+    "rows": 2124,
+    "columns": [
+      "Sample",
+      "Label",
+      "Marker",
+      "Size",
+      "Color",
+      "Alpha",
+      "Ca",
+      "Mg",
+      "Na",
+      "K",
+      "HCO3",
+      "CO3",
+      "Cl",
+      "SO4"
+    ],
+    "missing_major_ion_values": 0,
+    "CO3_zero_records": 2124,
+    "CO3_nonzero_records": 0,
+    "has_pH": false,
+    "has_coordinates": false,
+    "density_piper_seconds_first": 10.183802399988053,
+    "density_piper_seconds_repeats": [
+      9.471283999999287,
+      9.135731799993664,
+      9.183258599994588
+    ],
+    "density_piper_seconds_median_repeat": 9.183258599994588,
+    "qa_seconds": 0.4814890999987256,
+    "complete_major_balances": 2124,
+    "cbe_over_5": 672,
+    "cbe_over_10": 143,
+    "cbe_within_5": 1452,
+    "cbe_min": -15.781259346444706,
+    "cbe_median": 3.5091125527518745,
+    "cbe_max": 41.53768714331596,
+    "cbe_median_abs": 3.531537706672572,
+    "duplicate_chemistry": 4,
+    "measurement_status": [
+      {
+        "analyte": "CO3",
+        "status": "zero",
+        "count": 2124
+      },
+      {
+        "analyte": "Ca",
+        "status": "detected",
+        "count": 2124
+      },
+      {
+        "analyte": "Cl",
+        "status": "detected",
+        "count": 2124
+      },
+      {
+        "analyte": "HCO3",
+        "status": "detected",
+        "count": 2124
+      },
+      {
+        "analyte": "K",
+        "status": "detected",
+        "count": 1734
+      },
+      {
+        "analyte": "K",
+        "status": "zero",
+        "count": 390
+      },
+      {
+        "analyte": "Mg",
+        "status": "detected",
+        "count": 2122
+      },
+      {
+        "analyte": "Mg",
+        "status": "zero",
+        "count": 2
+      },
+      {
+        "analyte": "Na",
+        "status": "detected",
+        "count": 2122
+      },
+      {
+        "analyte": "Na",
+        "status": "zero",
+        "count": 2
+      },
+      {
+        "analyte": "SO4",
+        "status": "detected",
+        "count": 2121
+      },
+      {
+        "analyte": "SO4",
+        "status": "zero",
+        "count": 3
+      }
+    ],
+    "warnings": [
+      "Units/bases are suggested mappings, not verified laboratory metadata. Confirm before interpretation.",
+      "Reported zeros remain zeros; verify whether laboratory zeros actually represent non-detects.",
+      "Charge balance is a diagnostic, not an automatic acceptance filter; missing ions prevent a complete major-ion balance.",
+      "Duplicate chemistry or record keys are review flags, not proof of laboratory replicates."
+    ]
+  },
+  "yang": {
+    "source_file": "data\\data_Yang_et_al_2020.csv",
+    "source_sha256": "ff31c5d61e25db9280453a8da39543347c9e3c5afeb39da5e45ca444796c8932",
+    "rows": 1184,
+    "wells": 29,
+    "nondetect_unknown_limit": [
+      {
+        "analyte": "F",
+        "count": 8
+      },
+      {
+        "analyte": "Fe",
+        "count": 35
+      },
+      {
+        "analyte": "NH4",
+        "count": 335
+      },
+      {
+        "analyte": "SO4",
+        "count": 14
+      }
+    ],
+    "nondetect_total": 392,
+    "repeated_record_key_rows": 2,
+    "repeated_record_key_groups": [
+      {
+        "well": "J13",
+        "time": "1992",
+        "season": "wet"
+      }
+    ],
+    "duplicate_chemistry_rows": 2,
+    "duplicate_chemistry_records": [
+      {
+        "well": "J18",
+        "time": "1998",
+        "season": "wet"
+      },
+      {
+        "well": "J18",
+        "time": "1999",
+        "season": "dry"
+      }
+    ],
+    "complete_major_balances": 0,
+    "has_CO3": false,
+    "schema_crs": "unspecified",
+    "x_range": [
+      576686.45,
+      758952.48
+    ],
+    "y_range": [
+      3290249.0,
+      3428295.0
+    ],
+    "spatial_attempts": {
+      "wgs84": {
+        "status": "refused",
+        "message": "Longitude/latitude must be valid WGS84 decimal degrees (latitude within \u00b185\u00b0)."
+      },
+      "projected_no_crs": {
+        "status": "refused",
+        "message": "Duplicate sample locations found. Resolve or deliberately aggregate co-located measurements first."
+      },
+      "projected_auto_utm": {
+        "status": "refused",
+        "message": "Use valid WGS84 longitude/latitude in decimal degrees."
+      }
+    }
+  }
+}
