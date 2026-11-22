@@ -1,0 +1,19 @@
+{
+  "engine": "USGS IPhreeqc 3.7.3-15968-x64",
+  "database_release": "PHREEQC v3.7.3",
+  "wheel_sha256": "fc133d1ce9224f94a39633010026858f2dd0cdbe9dab6dad9ea8d47f4143cbda",
+  "files": {
+    "phreeqc.dat": {
+      "source": "https://raw.githubusercontent.com/phreeqc-dev/phreeqc3/v3.7.3/database/phreeqc.dat",
+      "sha256": "3e819f36a78a134b9e53557e9fd9e640d3616b84282cf7095c60337c49c6357b"
+    },
+    "wateq4f.dat": {
+      "source": "https://raw.githubusercontent.com/phreeqc-dev/phreeqc3/v3.7.3/database/wateq4f.dat",
+      "sha256": "b12c4a9818c946a882c675c458499d76a71fa0ec0becc8e5b9e175391ffaeb39"
+    },
+    "IPhreeqc-3.7.3.dll": {
+      "source": "https://pypi.org/project/phreeqpy/0.6.0/ (phreeqpy/iphreeqc/phreeqc3/IPhreeqc-3.7.3.dll)",
+      "sha256": "6e09125f8f113786848b4123e84861d6b72880fb49809d4181fd8620f7887965"
+    }
+  }
+}
