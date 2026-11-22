@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use AquaProv in your work, please cite it using this metadata and cite the scientific methods used in your analysis."
+type: software
+title: AquaProv
+version: "1.0"
+authors:
+  - family-names: Mahanta
+    given-names: Sachida Nanda
+    email: sachida5908@gmail.com
+  - family-names: Phukan
+    given-names: Bristi
+    email: bristi.87.hn.24@gmail.com
+  - family-names: Selvakumar
+    given-names: S.
+    email: geoselvas@gmail.com
+repository-code: "https://github.com/sachi5908/AquaProv"
+url: "https://sachi5908.github.io/AquaProv_Documentation/"
+license: GPL-3.0-only

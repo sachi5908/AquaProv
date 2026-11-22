@@ -1,0 +1,26 @@
+# Documentation is published separately from the software repository.
+/docs/
+/dist/AquaProv_Documentation/
+
+# Local manuscript, literature and generated review material.
+/Manuscript/
+/docs_analysis/
+/papers/
+/validation/
+
+# Python environments and build intermediates.
+/.venv/
+/.venv-*/
+/.build/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+/build/
+/PyPI/dist/
+
+# Local editor settings.
+/.vscode/
+
+# Keep aquaprovpy/assets/, AquaProv_EXE/ and its _internal/ runtime uploadable.
