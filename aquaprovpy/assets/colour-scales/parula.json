@@ -1,0 +1,52 @@
+{
+  "name": "parula",
+  "source": "https://github.com/opencv/opencv/blob/4.x/modules/imgproc/src/colormap.cpp",
+  "notice": "/*\n * Copyright (c) 2011. Philipp Wagner <bytefish[at]gmx[dot]de>.\n * Released to public domain under terms of the BSD Simplified license.\n *\n * Redistribution and use in source and binary forms, with or without\n * modification, are permitted provided that the following conditions are met:\n *   * Redistributions of source code must retain the above copyright\n *     notice, this list of conditions and the following disclaimer.\n *   * Redistributions in binary form must reproduce the above copyright\n *     notice, this list of conditions and the following disclaimer in the\n *     documentation and/or other materials provided with the distribution.\n *   * Neither the name of the organization nor the names of its contributors\n *     may be used to endorse or promote products derived from this software\n *     without specific prior written permission.\n *\n *   See <http://www.opensource.org/licenses/bsd-license>\n */",
+  "colours": [
+    [
+      0.2078,
+      0.1647,
+      0.5294
+    ],
+    [
+      0.0118,
+      0.3882,
+      0.8824
+    ],
+    [
+      0.0784,
+      0.5216,
+      0.8314
+    ],
+    [
+      0.0235,
+      0.6549,
+      0.7765
+    ],
+    [
+      0.2196,
+      0.7255,
+      0.6196
+    ],
+    [
+      0.5725,
+      0.749,
+      0.451
+    ],
+    [
+      0.851,
+      0.7294,
+      0.3373
+    ],
+    [
+      0.9882,
+      0.8078,
+      0.1804
+    ],
+    [
+      0.9765,
+      0.9843,
+      0.0549
+    ]
+  ]
+}
