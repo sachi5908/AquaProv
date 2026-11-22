@@ -1,0 +1,25 @@
+{
+  "executable": "C:\\Users\\sachi\\Desktop\\AquaProv\\.build\\phreeqc-3.8.6-17100-x64\\phreeqc-3.8.6-17100-x64\\bin\\Release\\phreeqc.exe",
+  "executable_sha256": "d1cc2ad3ae66af8a95c3fbb605affc4d22149c8d5aab4239919792c524635006",
+  "database": "C:\\Users\\sachi\\Desktop\\AquaProv\\.build\\phreeqc-3.8.6-17100-x64\\phreeqc-3.8.6-17100-x64\\database\\phreeqc.dat",
+  "database_sha256": "3be63aa92ab61fffd70e4bdf39e488bc32c1c1eaa71e1b41a4bf2fd33c1f5624",
+  "version_header": [
+    "#define PHREEQC_VER_MAJOR      3",
+    "#define PHREEQC_VER_MINOR      8",
+    "#define PHREEQC_VER_PATCH      6",
+    "#define PHREEQC_VER_REVISION   17100",
+    "#define PHREEQC_VER_NUM        APR_STRINGIFY(PHREEQC_VER_MAJOR) \\"
+  ],
+  "console_and_output_header": [
+    "Input file: _run.pqi",
+    "Output file: sukinda_verification.pqo",
+    "Database file: C:\\Users\\sachi\\Desktop\\AquaProv\\.build\\phreeqc-3.8.6-17100-x64\\phreeqc-3.8.6-17100-x64\\database\\phreeqc.dat",
+    "------------------",
+    "Reading data base.",
+    "------------------",
+    "SOLUTION_MASTER_SPECIES",
+    "SOLUTION_SPECIES",
+    "PHASES",
+    "GAS_BINARY_PARAMETERS"
+  ]
+}

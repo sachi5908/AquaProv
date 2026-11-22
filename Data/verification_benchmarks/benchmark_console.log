@@ -1,0 +1,21 @@
+Sukinda                      PHREEQC speciation and SI (IPhreeqc; 4 minerals)                       first    0.693  median    0.675
+Sukinda                      5-block spatial CV of TDS (ordinary kriging, IDW, training mean)       first    0.312  median    0.233
+Sukinda                      Monte Carlo SAR uncertainty, 2,000 draws                               first    0.470  median    0.455
+Sukinda                      Monte Carlo SAR uncertainty, 10,000 draws                              first    1.179  median    1.114
+Yang et al. (2020)           CSV ingestion + quality/nondetect review                               first    0.228  median    0.216
+Moreno Merino et al. (2021)  CSV ingestion + 8-ion CBE review                                       first    0.263  median    0.260
+Moreno Merino et al. (2021)  Contour-filled (density) Piper, render and save PNG                    first    6.751  median    6.399
+{
+  "cpu": "AMD Ryzen 7 7840HS w/ Radeon 780M Graphics",
+  "logical_processors": 16,
+  "ram_GB": 15.3,
+  "os": "Windows-10-10.0.26300-SP0",
+  "python": "3.10.11",
+  "aquaprov": "1.0",
+  "numpy": "2.2.6",
+  "pandas": "2.3.3",
+  "matplotlib": "3.10.9",
+  "scipy": "1.15.3",
+  "scikit_learn": "1.7.2",
+  "date": "2026-11-22 16:17:49"
+}

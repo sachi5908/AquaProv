@@ -1,0 +1,9 @@
+# Numerical verification re-run under Python 3.10.11 (22 November 2026)
+
+Re-run of the eight test modules behind Table 3 of the manuscript. The original record (`original_run_python3100_20261109.xml`, 169 cases, 9 November 2026) used Python 3.10.0.
+
+- Result: **170 passed, 0 failed** (`numerical_verification.xml`, `numerical_verification.log`).
+- Modules: test_diagram_corrections (48), test_assessment_science (34), test_saturation_science (29), test_water_quality_science (18), test_statistics_sample_counts (14), test_spatial_modules (13), test_results_export (8), test_projects (6).
+- Relationship to the 169 published cases: 168 test IDs are unchanged. The former `test_gibbs_equal_moles_and_durov_tds_scale` is now two tests (`test_gibbs_equal_masses_and_durov_tds_scale`, `test_gibbs_equal_moles_use_original_mass_ratios`), so the diagram module has 48 cases instead of 47.
+- Environment (`environment_freeze.txt`): `.build/venv-verify-3.10.11`, created from the same base interpreter as the build (`.build/python-3.10.11`), with a copy of the `.venv-build-min` packages (NumPy 2.2.6, SciPy 1.15.3, pandas 2.3.3, Matplotlib 3.10.9, scikit-learn 1.7.2). It adds test-only packages, installed offline from PyPI wheels whose SHA-256 matched PyPI's published digests: pytest 9.2.0 and its dependencies; the unmodified official PySide6_Essentials 6.12.0 and PySide6_Addons 6.12.0 wheels; and PySide6_Pdf 6.12.0.140, which provides `PySide6.QtPdf`. `QtPdf` is needed only by `test_wide_and_long_pdf_has_last_row_all_columns_methods_and_unicode`, which reads back an exported PDF report. The minimal build environment `.venv-build-min` was not modified.
+- Command: `QT_QPA_PLATFORM=offscreen MPLBACKEND=Agg python -m pytest <eight modules> -p no:cacheprovider -q --junitxml=numerical_verification.xml`

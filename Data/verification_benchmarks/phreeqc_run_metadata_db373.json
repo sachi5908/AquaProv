@@ -1,0 +1,25 @@
+{
+  "executable": "C:\\Users\\sachi\\Desktop\\AquaProv\\.build\\phreeqc-3.8.6-17100-x64\\phreeqc-3.8.6-17100-x64\\bin\\Release\\phreeqc.exe",
+  "executable_sha256": "d1cc2ad3ae66af8a95c3fbb605affc4d22149c8d5aab4239919792c524635006",
+  "database": "C:\\Users\\sachi\\Desktop\\AquaProv\\aquaprovpy\\saturation\\resources\\phreeqc.dat",
+  "database_sha256": "3e819f36a78a134b9e53557e9fd9e640d3616b84282cf7095c60337c49c6357b",
+  "version_header": [
+    "#define PHREEQC_VER_MAJOR      3",
+    "#define PHREEQC_VER_MINOR      8",
+    "#define PHREEQC_VER_PATCH      6",
+    "#define PHREEQC_VER_REVISION   17100",
+    "#define PHREEQC_VER_NUM        APR_STRINGIFY(PHREEQC_VER_MAJOR) \\"
+  ],
+  "console_and_output_header": [
+    "Input file: _run_db373.pqi",
+    "Output file: sukinda_verification_db373.pqo",
+    "Database file: C:\\Users\\sachi\\Desktop\\AquaProv\\aquaprovpy\\saturation\\resources\\phreeqc.dat",
+    "------------------",
+    "Reading data base.",
+    "------------------",
+    "SOLUTION_MASTER_SPECIES",
+    "SOLUTION_SPECIES",
+    "PHASES",
+    "EXCHANGE_MASTER_SPECIES"
+  ]
+}

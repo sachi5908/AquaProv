@@ -1,0 +1,13 @@
+metric,comparison,n,max_abs_delta,undefined_in_both
+CBE_percent,AquaProv vs independent Python reference,8,0.003323149419195204,
+SAR,AquaProv vs independent Python reference,8,1.941205511224453e-06,
+WQI,AquaProv vs independent Python reference,8,0.0,
+DWQI,AquaProv vs independent Python reference,8,0.0,
+SI_Calcite,AquaProv vs USGS PHREEQC 3.8.6 + phreeqc.dat 3.8.6,8,0.017849906807400007,0.0
+SI_Calcite,AquaProv vs USGS PHREEQC 3.8.6 + phreeqc.dat 3.7.3 (AquaProv bundle),8,0.0,0.0
+SI_Dolomite,AquaProv vs USGS PHREEQC 3.8.6 + phreeqc.dat 3.8.6,8,0.021501571790800006,0.0
+SI_Dolomite,AquaProv vs USGS PHREEQC 3.8.6 + phreeqc.dat 3.7.3 (AquaProv bundle),8,0.0,0.0
+SI_Gypsum,AquaProv vs USGS PHREEQC 3.8.6 + phreeqc.dat 3.8.6,8,0.0060994027839997855,0.0
+SI_Gypsum,AquaProv vs USGS PHREEQC 3.8.6 + phreeqc.dat 3.7.3 (AquaProv bundle),8,0.0,0.0
+SI_Fluorite,AquaProv vs USGS PHREEQC 3.8.6 + phreeqc.dat 3.8.6,7,0.014433847946,1.0
+SI_Fluorite,AquaProv vs USGS PHREEQC 3.8.6 + phreeqc.dat 3.7.3 (AquaProv bundle),7,0.0,1.0

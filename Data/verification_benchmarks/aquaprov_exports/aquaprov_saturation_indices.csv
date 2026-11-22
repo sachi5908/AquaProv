@@ -1,0 +1,141 @@
+source_row,sample,mineral,SI,log10_K,log10_IAP,status,classification,source_index,group
+1,1,Calcite,-0.0379438573001,-8.479964655643,-8.5179085129431,Calculated,Undersaturated,0,All samples
+1,1,Dolomite,0.3255095191188,-17.08402780647,-16.7585182873512,Calculated,Supersaturated,0,All samples
+1,1,Gypsum,-3.331138979437,-4.582379979044,-7.913518958481,Calculated,Undersaturated,0,All samples
+1,1,Fluorite,-2.654214756504,-10.5996756161,-13.253890372604001,Calculated,Undersaturated,0,All samples
+2,2,Calcite,-0.6106511790774,-8.479964655643,-9.090615834720401,Calculated,Undersaturated,1,All samples
+2,2,Dolomite,-1.381611263289,-17.08402780647,-18.465639069759,Calculated,Undersaturated,1,All samples
+2,2,Gypsum,-2.90739020028,-4.582379979044,-7.489770179324,Calculated,Undersaturated,1,All samples
+2,2,Fluorite,-3.082251509605,-10.5996756161,-13.681927125705,Calculated,Undersaturated,1,All samples
+3,3,Calcite,-1.689007942845,-8.479964655643,-10.168972598488,Calculated,Undersaturated,2,All samples
+3,3,Dolomite,-3.592274022986,-17.08402780647,-20.676301829456,Calculated,Undersaturated,2,All samples
+3,3,Gypsum,-2.969862122577,-4.582379979044,-7.552242101621,Calculated,Undersaturated,2,All samples
+3,3,Fluorite,-3.21955090547,-10.5996756161,-13.81922652157,Calculated,Undersaturated,2,All samples
+4,4,Calcite,-0.5586289587114,-8.479964655643,-9.0385936143544,Calculated,Undersaturated,3,All samples
+4,4,Dolomite,-0.9277614943664,-17.08402780647,-18.0117893008364,Calculated,Undersaturated,3,All samples
+4,4,Gypsum,-2.948399891405,-4.582379979044,-7.530779870449,Calculated,Undersaturated,3,All samples
+4,4,Fluorite,-2.370072279711,-10.5996756161,-12.969747895811,Calculated,Undersaturated,3,All samples
+5,6,Calcite,-0.2101415317856,-8.479964655643,-8.6901061874286,Calculated,Undersaturated,5,All samples
+5,6,Dolomite,-0.1449198367184,-17.08402780647,-17.228947643188402,Calculated,Undersaturated,5,All samples
+5,6,Gypsum,-2.215210565963,-4.582379979044,-6.797590545007,Calculated,Undersaturated,5,All samples
+5,6,Fluorite,-3.257316559144,-10.5996756161,-13.856992175244,Calculated,Undersaturated,5,All samples
+6,7,Calcite,-1.904632586764,-8.479964655643,-10.384597242407,Calculated,Undersaturated,6,All samples
+6,7,Dolomite,-3.699322948502,-17.08402780647,-20.783350754972002,Calculated,Undersaturated,6,All samples
+6,7,Gypsum,-3.013279263823,-4.582379979044,-7.595659242867001,Calculated,Undersaturated,6,All samples
+6,7,Fluorite,-3.595899485109,-10.5996756161,-14.195575101209,Calculated,Undersaturated,6,All samples
+7,8,Calcite,-1.710994172655,-8.479964655643,-10.190958828298001,Calculated,Undersaturated,7,All samples
+7,8,Dolomite,-3.18557127627,-17.08402780647,-20.26959908274,Calculated,Undersaturated,7,All samples
+7,8,Gypsum,-3.284612308407,-4.582379979044,-7.866992287451,Calculated,Undersaturated,7,All samples
+7,8,Fluorite,,-10.5996756161,,Undefined: required activity is absent or zero,Unassessed,7,All samples
+8,9,Calcite,0.3511793526851,-8.479964655643,-8.1287853029579,Calculated,Supersaturated,8,All samples
+8,9,Dolomite,0.2308220875324,-17.08402780647,-16.853205718937602,Calculated,Supersaturated,8,All samples
+8,9,Gypsum,-2.159583516408,-4.582379979044,-6.741963495452,Calculated,Undersaturated,8,All samples
+8,9,Fluorite,-2.263771780466,-10.5996756161,-12.863447396566,Calculated,Undersaturated,8,All samples
+9,10,Calcite,-0.3275458186408,-8.479964655643,-8.8075104742838,Calculated,Undersaturated,9,All samples
+9,10,Dolomite,-0.831007161379,-17.08402780647,-17.915034967849,Calculated,Undersaturated,9,All samples
+9,10,Gypsum,-3.610270596697,-4.582379979044,-8.192650575741,Calculated,Undersaturated,9,All samples
+9,10,Fluorite,-3.550957009237,-10.5996756161,-14.150632625337,Calculated,Undersaturated,9,All samples
+10,11,Calcite,-0.6036623533484,-8.479964655643,-9.0836270089914,Calculated,Undersaturated,10,All samples
+10,11,Dolomite,-1.503656494223,-17.08402780647,-18.587684300693002,Calculated,Undersaturated,10,All samples
+10,11,Gypsum,-2.717210966321,-4.582379979044,-7.299590945365,Calculated,Undersaturated,10,All samples
+10,11,Fluorite,-2.359307779109,-10.5996756161,-12.958983395209,Calculated,Undersaturated,10,All samples
+11,12,Calcite,0.5678500831119,-8.479964655643,-7.912114572531101,Calculated,Supersaturated,11,All samples
+11,12,Dolomite,0.4905456866289,-17.08402780647,-16.593482119841102,Calculated,Supersaturated,11,All samples
+11,12,Gypsum,-2.427846395605,-4.582379979044,-7.010226374649,Calculated,Undersaturated,11,All samples
+11,12,Fluorite,-2.010576571453,-10.5996756161,-12.610252187553002,Calculated,Undersaturated,11,All samples
+12,13,Calcite,-0.7256947114022,-8.479964655643,-9.2056593670452,Calculated,Undersaturated,12,All samples
+12,13,Dolomite,-1.491610051427,-17.08402780647,-18.575637857897,Calculated,Undersaturated,12,All samples
+12,13,Gypsum,-2.789697809037,-4.582379979044,-7.3720777880810004,Calculated,Undersaturated,12,All samples
+12,13,Fluorite,-3.30485938278,-10.5996756161,-13.90453499888,Calculated,Undersaturated,12,All samples
+13,14,Calcite,-1.227543203315,-8.479964655643,-9.707507858958,Calculated,Undersaturated,13,All samples
+13,14,Dolomite,-2.46314230114,-17.08402780647,-19.54717010761,Calculated,Undersaturated,13,All samples
+13,14,Gypsum,-3.659202325316,-4.582379979044,-8.24158230436,Calculated,Undersaturated,13,All samples
+13,14,Fluorite,-2.828811218998,-10.5996756161,-13.428486835098001,Calculated,Undersaturated,13,All samples
+14,15,Calcite,-2.950193694988,-8.479964655643,-11.430158350631,Calculated,Undersaturated,14,All samples
+14,15,Dolomite,-6.140252927702,-17.08402780647,-23.224280734172,Calculated,Undersaturated,14,All samples
+14,15,Gypsum,-4.440800206399,-4.582379979044,-9.023180185443,Calculated,Undersaturated,14,All samples
+14,15,Fluorite,,-10.5996756161,,Undefined: required activity is absent or zero,Unassessed,14,All samples
+15,16,Calcite,-0.427227098023,-8.479964655643,-8.907191753666,Calculated,Undersaturated,15,All samples
+15,16,Dolomite,-1.25905886411,-17.08402780647,-18.34308667058,Calculated,Undersaturated,15,All samples
+15,16,Gypsum,-3.362714102742,-4.582379979044,-7.945094081786,Calculated,Undersaturated,15,All samples
+15,16,Fluorite,-3.51943931134,-10.5996756161,-14.119114927440002,Calculated,Undersaturated,15,All samples
+16,17,Calcite,-1.76853584025,-8.479964655643,-10.248500495893,Calculated,Undersaturated,16,All samples
+16,17,Dolomite,-3.329479887788,-17.08402780647,-20.413507694258,Calculated,Undersaturated,16,All samples
+16,17,Gypsum,-4.163599344481,-4.582379979044,-8.745979323524999,Calculated,Undersaturated,16,All samples
+16,17,Fluorite,,-10.5996756161,,Undefined: required activity is absent or zero,Unassessed,16,All samples
+17,18,Calcite,-2.088288217784,-8.479964655643,-10.568252873427,Calculated,Undersaturated,17,All samples
+17,18,Dolomite,-3.339519085322,-17.08402780647,-20.423546891792,Calculated,Undersaturated,17,All samples
+17,18,Gypsum,,-4.582379979044,,Undefined: required activity is absent or zero,Unassessed,17,All samples
+17,18,Fluorite,,-10.5996756161,,Undefined: required activity is absent or zero,Unassessed,17,All samples
+18,19,Calcite,-0.2328597057116,-8.479964655643,-8.7128243613546,Calculated,Undersaturated,18,All samples
+18,19,Dolomite,0.8574084073158,-17.08402780647,-16.226619399154202,Calculated,Supersaturated,18,All samples
+18,19,Gypsum,-4.718069611112,-4.582379979044,-9.300449590156,Calculated,Undersaturated,18,All samples
+18,19,Fluorite,,-10.5996756161,,Undefined: required activity is absent or zero,Unassessed,18,All samples
+19,21,Calcite,-1.690180132283,-8.479964655643,-10.170144787926,Calculated,Undersaturated,20,All samples
+19,21,Dolomite,-3.351693617802,-17.08402780647,-20.435721424272,Calculated,Undersaturated,20,All samples
+19,21,Gypsum,-4.465267877337,-4.582379979044,-9.047647856381001,Calculated,Undersaturated,20,All samples
+19,21,Fluorite,-3.665048455381,-10.5996756161,-14.264724071481002,Calculated,Undersaturated,20,All samples
+20,23,Calcite,-1.276528228354,-8.479964655643,-9.756492883997,Calculated,Undersaturated,22,All samples
+20,23,Dolomite,-2.724675181468,-17.08402780647,-19.808702987938002,Calculated,Undersaturated,22,All samples
+20,23,Gypsum,-5.089325784879,-4.582379979044,-9.671705763923,Calculated,Undersaturated,22,All samples
+20,23,Fluorite,-3.59062115186,-10.5996756161,-14.190296767960001,Calculated,Undersaturated,22,All samples
+21,25,Calcite,-1.554363142107,-8.479964655643,-10.03432779775,Calculated,Undersaturated,24,All samples
+21,25,Dolomite,-2.742461458555,-17.08402780647,-19.826489265025,Calculated,Undersaturated,24,All samples
+21,25,Gypsum,-2.824493003009,-4.582379979044,-7.406872982053001,Calculated,Undersaturated,24,All samples
+21,25,Fluorite,-3.605984742793,-10.5996756161,-14.205660358893,Calculated,Undersaturated,24,All samples
+22,26,Calcite,-1.805106616733,-8.479964655643,-10.285071272376001,Calculated,Undersaturated,25,All samples
+22,26,Dolomite,-3.60716826648,-17.08402780647,-20.69119607295,Calculated,Undersaturated,25,All samples
+22,26,Gypsum,-5.163005530981,-4.582379979044,-9.745385510024999,Calculated,Undersaturated,25,All samples
+22,26,Fluorite,,-10.5996756161,,Undefined: required activity is absent or zero,Unassessed,25,All samples
+23,27,Calcite,-0.4163373890921,-8.479964655643,-8.8963020447351,Calculated,Undersaturated,26,All samples
+23,27,Dolomite,0.09265687956203,-17.08402780647,-16.991370926907972,Calculated,Supersaturated,26,All samples
+23,27,Gypsum,-4.282568083625,-4.582379979044,-8.864948062669,Calculated,Undersaturated,26,All samples
+23,27,Fluorite,-3.828958214356,-10.5996756161,-14.428633830456,Calculated,Undersaturated,26,All samples
+24,29,Calcite,-1.608531985221,-8.479964655643,-10.088496640864001,Calculated,Undersaturated,28,All samples
+24,29,Dolomite,-3.158154530749,-17.08402780647,-20.242182337219,Calculated,Undersaturated,28,All samples
+24,29,Gypsum,-2.983398502349,-4.582379979044,-7.565778481393,Calculated,Undersaturated,28,All samples
+24,29,Fluorite,,-10.5996756161,,Undefined: required activity is absent or zero,Unassessed,28,All samples
+25,30,Calcite,,,,Excluded: incomplete mapped chemistry,Unassessed,29,All samples
+25,30,Dolomite,,,,Excluded: incomplete mapped chemistry,Unassessed,29,All samples
+25,30,Gypsum,,,,Excluded: incomplete mapped chemistry,Unassessed,29,All samples
+25,30,Fluorite,,,,Excluded: incomplete mapped chemistry,Unassessed,29,All samples
+26,31,Calcite,,,,Excluded: incomplete mapped chemistry,Unassessed,30,All samples
+26,31,Dolomite,,,,Excluded: incomplete mapped chemistry,Unassessed,30,All samples
+26,31,Gypsum,,,,Excluded: incomplete mapped chemistry,Unassessed,30,All samples
+26,31,Fluorite,,,,Excluded: incomplete mapped chemistry,Unassessed,30,All samples
+27,34,Calcite,-1.200011816708,-8.479964655643,-9.679976472351001,Calculated,Undersaturated,33,All samples
+27,34,Dolomite,-2.250466387291,-17.08402780647,-19.334494193761,Calculated,Undersaturated,33,All samples
+27,34,Gypsum,-3.486924005981,-4.582379979044,-8.069303985025,Calculated,Undersaturated,33,All samples
+27,34,Fluorite,-2.373857565476,-10.5996756161,-12.973533181576,Calculated,Undersaturated,33,All samples
+28,35,Calcite,-1.314177877224,-8.479964655643,-9.794142532867,Calculated,Undersaturated,34,All samples
+28,35,Dolomite,-2.973299108406,-17.08402780647,-20.057326914876,Calculated,Undersaturated,34,All samples
+28,35,Gypsum,-3.344591859654,-4.582379979044,-7.926971838698,Calculated,Undersaturated,34,All samples
+28,35,Fluorite,,-10.5996756161,,Undefined: required activity is absent or zero,Unassessed,34,All samples
+29,36,Calcite,-0.3962684503873,-8.479964655643,-8.8762331060303,Calculated,Undersaturated,35,All samples
+29,36,Dolomite,-0.3160138854047,-17.08402780647,-17.4000416918747,Calculated,Undersaturated,35,All samples
+29,36,Gypsum,-2.684318380697,-4.582379979044,-7.2666983597409995,Calculated,Undersaturated,35,All samples
+29,36,Fluorite,-2.942790572062,-10.5996756161,-13.542466188162,Calculated,Undersaturated,35,All samples
+30,38,Calcite,-1.133578040983,-8.479964655643,-9.613542696626,Calculated,Undersaturated,37,All samples
+30,38,Dolomite,-2.546366409252,-17.08402780647,-19.630394215722,Calculated,Undersaturated,37,All samples
+30,38,Gypsum,-3.578256033001,-4.582379979044,-8.160636012045,Calculated,Undersaturated,37,All samples
+30,38,Fluorite,-3.515902473873,-10.5996756161,-14.115578089973,Calculated,Undersaturated,37,All samples
+31,39,Calcite,-0.9538177938946,-8.479964655643,-9.4337824495376,Calculated,Undersaturated,38,All samples
+31,39,Dolomite,-1.827748258255,-17.08402780647,-18.911776064725,Calculated,Undersaturated,38,All samples
+31,39,Gypsum,-4.977516172463,-4.582379979044,-9.559896151507001,Calculated,Undersaturated,38,All samples
+31,39,Fluorite,-3.454871875343,-10.5996756161,-14.054547491443001,Calculated,Undersaturated,38,All samples
+32,40,Calcite,-1.23684393481,-8.479964655643,-9.716808590453,Calculated,Undersaturated,39,All samples
+32,40,Dolomite,-2.59119499881,-17.08402780647,-19.67522280528,Calculated,Undersaturated,39,All samples
+32,40,Gypsum,-2.669781357281,-4.582379979044,-7.252161336325,Calculated,Undersaturated,39,All samples
+32,40,Fluorite,-3.334204965292,-10.5996756161,-13.933880581392,Calculated,Undersaturated,39,All samples
+33,43,Calcite,-1.64206109224,-8.479964655643,-10.122025747883,Calculated,Undersaturated,42,All samples
+33,43,Dolomite,-3.353188749921,-17.08402780647,-20.437216556391,Calculated,Undersaturated,42,All samples
+33,43,Gypsum,-3.054189655087,-4.582379979044,-7.636569634131,Calculated,Undersaturated,42,All samples
+33,43,Fluorite,-2.546351242174,-10.5996756161,-13.146026858274,Calculated,Undersaturated,42,All samples
+34,45,Calcite,-0.5130769785251,-8.479964655643,-8.993041634168101,Calculated,Undersaturated,44,All samples
+34,45,Dolomite,-1.439109724792,-17.08402780647,-18.523137531262,Calculated,Undersaturated,44,All samples
+34,45,Gypsum,-2.730130755368,-4.582379979044,-7.312510734412,Calculated,Undersaturated,44,All samples
+34,45,Fluorite,-2.459190600354,-10.5996756161,-13.058866216454,Calculated,Undersaturated,44,All samples
+35,47,Calcite,-0.6750007859003,-8.479964655643,-9.1549654415433,Calculated,Undersaturated,46,All samples
+35,47,Dolomite,-1.325188347959,-17.08402780647,-18.409216154429,Calculated,Undersaturated,46,All samples
+35,47,Gypsum,-3.532278399502,-4.582379979044,-8.114658378546,Calculated,Undersaturated,46,All samples
+35,47,Fluorite,-2.782979984761,-10.5996756161,-13.382655600861,Calculated,Undersaturated,46,All samples

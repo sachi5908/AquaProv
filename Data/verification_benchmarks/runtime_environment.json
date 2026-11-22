@@ -1,0 +1,14 @@
+{
+  "cpu": "AMD Ryzen 7 7840HS w/ Radeon 780M Graphics",
+  "logical_processors": 16,
+  "ram_GB": 15.3,
+  "os": "Windows-10-10.0.26300-SP0",
+  "python": "3.10.11",
+  "aquaprov": "1.0",
+  "numpy": "2.2.6",
+  "pandas": "2.3.3",
+  "matplotlib": "3.10.9",
+  "scipy": "1.15.3",
+  "scikit_learn": "1.7.2",
+  "date": "2026-11-22 16:17:49"
+}
